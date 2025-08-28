@@ -100,18 +100,14 @@ Unlabeled MNIST digit images clustered and classified.
  ┗ 📂 docs/
     ┗ workflow.png
 
-**🔧 Tech Stack
-**
+🔧 Tech Stack
+
 Languages: Python 3.8+
-
 Libraries: NumPy, Pandas, scikit-learn, NLTK, Matplotlib, Seaborn, Gensim (Word2Vec)
-
 Datasets: Custom text corpus, MNIST handwritten digits
 
-**👨‍💻 Authors
-**
-**Sanjeev Ranjan
-**
-**Shreyas Shanbhag
-**
-**Kunal Sant**
+👨‍💻 Authors
+
+Sanjeev Ranjan
+Shreyas Shanbhag
+Kunal Sant
